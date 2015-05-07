@@ -20,3 +20,4 @@ How to use:
 ```
 <div id=’flickrbox’> </div>
 ```
+- Here you can view a demo: http://www.claudiomarchesini.it/demo/flikr_gallery/
